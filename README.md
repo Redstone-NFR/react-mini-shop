@@ -41,3 +41,5 @@ npm run dev
   - `Details.jsx` - Individual product details
 - `/src/App.jsx` - Main application component with routing
 - `/src/App.css` - Global styles
+
+##GL
