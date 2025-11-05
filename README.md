@@ -42,4 +42,4 @@ npm run dev
 - `/src/App.jsx` - Main application component with routing
 - `/src/App.css` - Global styles
 
-##GL
+GL
